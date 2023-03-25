@@ -1,4 +1,4 @@
-# Company API Project
+# Products API Project
 a  API with Javascript and related technologies (ES6+, mongodb, etc)
 
 ## Environment variables
