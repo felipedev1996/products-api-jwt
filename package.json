@@ -1,5 +1,5 @@
 {
-  "name": "company-products-api",
+  "name": "products-api-jwt",
   "version": "0.0.2",
   "description": "A Company REST API with authentication and authorization",
   "main": "src/index.js",
@@ -12,32 +12,32 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztWeb/company-products-api.git"
+    "url": "git+https://github.com/felipedev1996/products-api-jwt.git"
   },
   "keywords": [],
   "author": "Felipe Pino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FaztWeb/company-products-api/issues"
+    "url": "https://github.com/felipedev1996/products-api-jwt/issues"
   },
-  "homepage": "https://github.com/FaztWeb/company-products-api#readme",
+  "homepage": "https://github.com/felipedev1996/products-api-jwt#readme",
   "devDependencies": {
     "jest": "^28.1.3",
     "nodemon": "^2.0.19",
     "supertest": "^6.2.4"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.1",
-    "express": "^4.18.1",
-    "helmet": "^5.1.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.5.0",
-    "morgan": "^1.10.0",
-    "@babel/cli": "^7.21.0",
-    "@babel/core": "^7.21.3",
-    "@babel/node": "^7.20.7",
-    "@babel/preset-env": "^7.20.2"
+    "bcryptjs": "2.4.3",
+    "cors": "2.8.5",
+    "dotenv": "16.0.1",
+    "express": "4.18.1",
+    "helmet": "5.1.1",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "6.5.0",
+    "morgan": "1.10.0",
+    "@babel/cli": "7.21.0",
+    "@babel/core": "7.21.3",
+    "@babel/node": "7.20.7",
+    "@babel/preset-env": "7.20.2"
   }
 }
